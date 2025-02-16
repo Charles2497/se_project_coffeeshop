@@ -2,6 +2,8 @@
   padding: 100px 0 120px;
   background-image: url(../images/se_project_2_files/background_reservation.svg);
   background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
   background-color: #d9e7ff;
 }
 
